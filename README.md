@@ -1,5 +1,5 @@
 # Population-Projection
-This code is for population forecasting.\n 
+This code is for population forecasting.
 The datasets used in this code are publicly available on the following links.
 # Datasets
 Australia [Link](https://demographic-datasets-network.github.io/)
